@@ -1,2 +1,1 @@
-# hello-world
-my first repository as a young developer
+No README, .gitignore, or license
